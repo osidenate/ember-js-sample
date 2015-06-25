@@ -1,2 +1,2 @@
 # ember-js-sample
-Testing out ember.js
+Nothing special, just testing out how ember.js works.
